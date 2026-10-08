@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works as a portable Agent Skill. Document-generation tools are optional; when available, use them to produce DOCX or PDF while preserving these rules.
 metadata:
   author: Lakwat
-  version: "1.0.1"
+  version: "1.1.0-renfe.1"
 ---
 
 # Restrained Legal Drafting
@@ -72,3 +72,9 @@ Before delivery, confirm that:
 ## User overrides
 
 A specific instruction from the user or a binding filing rule overrides the defaults in this skill. Apply the narrowest necessary deviation and preserve the restrained style everywhere else.
+
+## Verified document packs
+
+For a multi-document legal matter, apply [Source verification and release gates](references/VERIFICATION.md) before drafting and at release. Keep the claim ledger, research notes and filing gates separate from formal instruments. Do not call a conditional complaint ready for filing. Use the document-specific author and independent reviewer requested by the user; do not silently substitute self-review. Record actual source checks and corrections. Preserve the original skill's restrained presentation throughout.
+
+For a JSON-based build, use `scripts/build_documents.py` after source review. Its schema and validation support consistent rendering; automated checks do not establish legal correctness. The requesting environment's document skill governs rendering and delivery.

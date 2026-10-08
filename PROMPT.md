@@ -13,3 +13,5 @@ Write precise natural legal prose. Use paragraphs rather than bullets or matrice
 This instruction governs style and editorial discipline only. Follow binding jurisdiction-specific filing requirements and my express instructions first. Do not invent procedural rules or mandatory structures. Ask only for missing information that materially affects accuracy, and do not repeat questions already answered.
 
 Before delivery, check pagination, footnotes, page breaks, overflow, blank pages, citation consistency, and that every footer contains only the page numeral.
+
+For multi-document work, follow references/VERIFICATION.md. Require two author passes and independent source review, maintain a separate claim ledger, and distinguish prepared, conditional and internal documents from actual filed proceedings.

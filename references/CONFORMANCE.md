@@ -36,3 +36,12 @@ Use this checklist after generating or editing the final document.
 4. PDF text is selectable where possible and fonts render consistently.
 5. The filename is neutral and professional.
 6. Drafting notes, source commentary, uncertainties, and explanations are delivered separately from the formal document.
+
+## Release integrity
+
+1. The author completed and recorded a source pass and adversarial pass.
+2. An independent reviewer examined the substantive claims and requested corrections where needed.
+3. Each instrument has a stable ID and a separate source ledger.
+4. Prepared, conditional and internal statuses reflect actual remaining work.
+5. Filing status is supported by a registration receipt; drafting is never recorded as submission.
+6. Every page was visually inspected after its final content change.

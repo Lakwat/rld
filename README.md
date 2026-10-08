@@ -29,3 +29,7 @@ Binding procedural or institutional requirements come first, followed by explici
 ## Licence
 
 MIT. See the [LICENSE](./LICENSE) file.
+
+## Verified drafting extension
+
+This case-specific development fork builds on upstream commit `5f66ec70414e8c0fa19c815fe087f35f3c743cb7`. It adds claim-level primary-source verification, adversarial author review, independent review, explicit filing gates, restrained document generation and release hashes. No case evidence or personal data is stored here. Upstream `main` is preserved.
