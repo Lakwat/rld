@@ -1,6 +1,6 @@
 # Restrained Legal Drafting
 
-A portable Agent Skill for drafting formal legal documents in a conventional, deliberately plain style: black text, white background, paragraph-led structure, limited numbered headings, no tables by default, no decorative report design, no repeated running title, and a footer containing only the page number.
+A portable Agent Skill for drafting formal legal documents in a conventional, deliberately plain style: black text, white background, paragraph-led structure, limited numbered headings for substantial documents but unnumbered short escritos, no tables by default, no decorative report design, no repeated running title, and a footer containing only the page number.
 
 The skill is intended for legal documents attached to emails or used as standalone formal instruments. It is not a library of jurisdiction-specific pleading formats and does not claim to replace court rules, procedural law, or professional review.
 
@@ -9,6 +9,7 @@ The skill is intended for legal documents attached to emails or used as standalo
 - `SKILL.md` — the portable Agent Skills definition.
 - `PROMPT.md` — a fallback instruction block for models or clients that do not load Agent Skills.
 - `references/CONFORMANCE.md` — a concise review checklist for generated DOCX and PDF files.
+- `references/SHORT-SUBMISSIONS.md` — a preferred visual blueprint for short procedural escritos (including subsanaciones and document submissions), with an anonymised schematic.
 
 ## Use
 
