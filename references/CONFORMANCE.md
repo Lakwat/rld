@@ -12,7 +12,7 @@ Use this checklist after generating or editing the final document.
 
 ## Structure
 
-1. The document uses a limited number of broad numbered sections.
+1. Short procedural submissions may use a clean, entirely unnumbered structure; longer documents use a limited number of broad numbered sections where helpful.
 2. The main body is continuous prose. Numbered paragraphs are acceptable; tables and bullet lists are absent unless specifically justified.
 3. The title appears once.
 4. There is no automatic cover, contents page, executive summary, abstract, keyword list, revision table, or decorative annex index.
@@ -25,8 +25,18 @@ Use this checklist after generating or editing the final document.
 3. Body text is justified and spacing is restrained.
 4. Headings are functional, not decorative, and do not occur every few paragraphs.
 5. There is no running header.
-6. Every footer contains only one centred Arabic numeral.
+6. A one-page short submission may have no visible footer; on multipage documents any footer contains only one centred Arabic numeral.
 7. No page contains a logo, icon, colour block, sidebar, callout, banner, decorative border, or report-style panel.
+
+## Short-submission layout (when applicable)
+
+1. The formal addressee, if relevant, is centred; the authority name is bold uppercase and the unit beneath is regular type.
+2. Case and notice/reference identifiers appear left-aligned, not in a table.
+3. A specific bold uppercase title is centred once, with adequate spacing around it.
+4. Identity and capacity, concise facts, and the request appear in justified prose rather than automatic numbered sections.
+5. The request is signposted with a brief bold line (for example `Por lo expuesto, SOLICITA:`); enclosures are described in a sentence, not a decorative annex list.
+6. The closing place/date or electronic-filing formula is discreetly aligned as appropriate, and no unnecessary postal-address block or signature is inserted.
+7. Personal identifiers from style-reference screenshots are not carried into generic samples.
 
 ## Technical output
 
